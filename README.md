@@ -10,8 +10,7 @@ I am a student with a strong interest in **C++**, **Data Structures & Algorithms
 
 ## Projects & Research  
 
-- **Final Year Project**: Developing a 3D printer with integrated **laser engraving**, utilizing RepRap-based methodologies  
-- **Automation & Robotics**: Implemented an automated movement robot and a Raspberry Pi-based home assistant  
+- **Final Year Project**: Developing a 3D printer with integrated **laser engraving**, utilizing RepRap-based methodologies.
 - **Security Systems**: Designed a burglary alarm system using an IR sensor  
 
 ## Technical Skills  
